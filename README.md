@@ -225,3 +225,4 @@ To configure the pre-commit hook, simply add a `precommit` npm script. We want t
 - [GitHub Actions for Angular](https://github.com/rodrigokamada/angular-github-actions)
 - [Angular 16 - milestone release](https://github.com/actionanand/ng16-signal-milestone-release)
 - [Angular Pipes Deep Dive - GitHub](https://github.com/actionanand/Angular-study-Pipes)
+- [Reference vs Primitive Values - Academind](https://academind.com/tutorials/reference-vs-primitive-values)
